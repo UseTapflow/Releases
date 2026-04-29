@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Tapflow</title>
+        <link>https://raw.githubusercontent.com/UseTapflow/Releases/main/appcast.xml</link>
+        <description>Tapflow updates feed</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.1</title>
+            <pubDate>Wed, 29 Apr 2026 13:58:57 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Welcome to Tapflow</h2>
+                <p>First public release. Show your keystrokes, mouse actions, and camera overlay on screen — perfect for tutorials, demos, live presentations, and screen recordings.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/UseTapflow/Releases/releases/download/v1.0.1/Tapflow-1.0.1.dmg"
+                sparkle:edSignature="YrmBAI0WmNCnSQi4uZJ5WnxgR+QO16fT+D2w8crrKC0YHA8aji7NnTbX4yTEl3XIB4ZNTiHLoZmOJRUlxsp+Dw=="
+                length="9940034"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
